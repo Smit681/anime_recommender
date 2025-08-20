@@ -1,0 +1,31 @@
+{
+  "sad": {
+    "Slice of Life": 1.3,
+    "Comedy": 1.25,
+    "Music": 1.2,
+    "Romance": 1.15
+  },
+  "excited": {
+    "Action": 1.3,
+    "Shounen": 1.25,
+    "Sports": 1.2,
+    "Mecha": 1.15
+  },
+  "motivated": {
+    "Sports": 1.25,
+    "Seinen": 1.2,
+    "Drama": 1.15,
+    "Adventure": 1.15
+  },
+  "relaxed": {
+    "Slice of Life": 1.3,
+    "Romance": 1.2,
+    "Food": 1.2,
+    "Fantasy": 1.1
+  },
+  "curious": {
+    "Mystery": 1.25,
+    "Psychological": 1.25,
+    "Sci-Fi": 1.15
+  }
+}
