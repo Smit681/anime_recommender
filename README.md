@@ -1,6 +1,6 @@
 # 🎥 Anime Recommendation Web App  
 
-👉 **Live App:** [https://your-anime-app.streamlit.app](https://your-anime-app.streamlit.app)  
+👉 **Live App:** https://animerecommend.streamlit.app/
 
 ---
 
